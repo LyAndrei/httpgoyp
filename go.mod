@@ -1,3 +1,3 @@
 module github.com/LyAndrei/httpgoyp
 
-go 1.23.5
+go 1.22.8
